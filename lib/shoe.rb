@@ -8,5 +8,7 @@ class Shoe
     @material = material
     @size = size
     @condition = condition
+    
+    def cobble
 end
 end
